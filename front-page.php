@@ -1,11 +1,5 @@
 <!Doctype html>
 <html>
-<!––
-AL1EN Repacks
-Version : 0.1
-Author : AL1EN
-Github : https://github.com/AL1EN-Repacks/alien-repacks.site
-––>
 
 <head>
 <link rel="stylesheet" href="css/style.css">
